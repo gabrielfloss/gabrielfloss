@@ -1,16 +1,18 @@
 ### Hi there 👋
 
-<!--
-**gabrielfloss/gabrielfloss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Olá, sou o Gabriel, sou um Programador Front End, e atualmente estou aprendendo e criando projetos com :
 
-Here are some ideas to get you started:
+ - HTML
+ - CSS
+ - JavaScript
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ Sempre aprimorando todo conhecimento adquirido em aula 🙌 
+
+
+ ### Conecte-se Comigo :
+ <a>https://www.instagram.com/gabrielflxs </a><img scr="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+ 
+ <a>https://www.linkedin.com/in/gabriel-ribeiro-877b872ab/</a>
+ 
+
+
