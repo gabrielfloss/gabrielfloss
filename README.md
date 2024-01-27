@@ -9,7 +9,7 @@ Olá, sou o Gabriel, sou um Programador Front End, e atualmente estou aprendendo
  Sempre aprimorando todo conhecimento adquirido em aula 🙌 
 
 
- - 💬 Pergunte-me sobre qualquer coisa [here]([https://www.linkedin.com/in/gabriel-ribeiro-](https://www.linkedin.com/in/gabriel-ribeiro-877b872ab/)
+ - 💬 Pergunte-me sobre qualquer coisa [here](https://www.linkedin.com/in/gabriel-ribeiro-877b872ab/)
  - 📫 Como chegar até mim : [@gabrielflxs](https://www.instagram.com/gabrielflxs);
 
 
@@ -19,7 +19,7 @@ Olá, sou o Gabriel, sou um Programador Front End, e atualmente estou aprendendo
 <a href="https://www.instagram.com/gabrielflxs">
 <img align="left" alt="icone do instagram uma camera dentro de um quadrado" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
-<a href="[https://www.linkedin.com/in/gabriel-ribeiro/](https://www.linkedin.com/in/gabriel-ribeiro-877b872ab/)">
+<a href="https://www.linkedin.com/in/gabriel-ribeiro-877b872ab/">
 <img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 </p>
