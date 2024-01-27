@@ -9,7 +9,7 @@ Olá, sou o Gabriel, sou um Programador Front End, e atualmente estou aprendendo
  Sempre aprimorando todo conhecimento adquirido em aula 🙌 
 
 
- - 💬 Pergunte-me sobre qualquer coisa [here](https://www.linkedin.com/in/gabriel-ribeiro-)
+ - 💬 Pergunte-me sobre qualquer coisa [here]([https://www.linkedin.com/in/gabriel-ribeiro-](https://www.linkedin.com/in/gabriel-ribeiro-877b872ab/)
  - 📫 Como chegar até mim : [@gabrielflxs](https://www.instagram.com/gabrielflxs);
 
 
@@ -26,8 +26,6 @@ Olá, sou o Gabriel, sou um Programador Front End, e atualmente estou aprendendo
 <br />
 <br />
  
- 
-
 ![Gabriel GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielfloss&show_icons=true&theme=dracula&count_private=true)
 
 ## Tecnologias que eu uso no meu dia
