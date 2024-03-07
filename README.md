@@ -1,5 +1,5 @@
 ### Hi there 👋 
-🎯"focus" 🎯
+🎯"focus"🎯
 
 Olá, sou o Gabriel, sou um Programador Front End, e atualmente estou aprendendo e criando projetos com :
 
