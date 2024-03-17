@@ -6,7 +6,7 @@ Olá, sou o Gabriel, sou um Programador Front End, e atualmente estou aprendendo
  - HTML
  - CSS
  - JavaScript
- - React & Native
+ - React 
 
  Sempre aprimorando todo conhecimento adquirido em aula 🙌 
 
