@@ -23,6 +23,6 @@ Bem-vindo ao meu perfil no <strong>GitHub</strong> ! Eu sou um desenvolvedor Fro
 
 ### Como me encontrar
 
-- Email: [gabriel.ribeirosantos.contato@gmail.com](mailto:gabriel.ribeirosantos.contato@gmail.com)
-- LinkedIn: [meu LinkedIn](https://www.linkedin.com/in/dev-gabriel-ribeiro/)
-- instagram: [meu Instagram](https://www.instagram.com/gabrielflxs)
+- Email:    [gabriel.ribeirosantos.contato@gmail.com](mailto:gabriel.ribeirosantos.contato@gmail.com)
+- LinkedIn:    [meu LinkedIn](https://www.linkedin.com/in/dev-gabriel-ribeiro/)
+- instagram:    [meu Instagram](https://www.instagram.com/gabrielflxs)
