@@ -1,6 +1,6 @@
 
 ### Olá! sou Gabriel
-Bem-vindo ao meu perfil no <strong>GitHub</strong> ! Eu sou um desenvolvedor FrontEnd na qual estou atualmente cursando o ensino médio como a programação, criei interesse  pela área com a curiosidade de entender o ramo da tecnologia.
+Bem-vindo ao meu perfil no<strong> GitHub </strong> ! Eu sou um desenvolvedor FrontEnd na qual estou atualmente cursando o ensino médio como a programação, criei interesse  pela área com a curiosidade de entender o ramo da tecnologia.
 
 ### FrontEnd.
 + JavaScript
