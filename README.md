@@ -4,6 +4,7 @@ Bem-vindo ao meu perfil no<strong> GitHub </strong> ! Eu sou um desenvolvedor Fr
 
 ### FrontEnd.
 + JavaScript
++ TypeScript
 + React
 + HTML
 + CSS
