@@ -17,9 +17,6 @@ Bem-vindo ao meu perfil no<strong> GitHub </strong> ! Eu sou um desenvolvedor Fr
 #
 <div align=center>
   
-[![card](https://github-readme-stats.vercel.app/api?username=gabrielfloss&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-</div>
-
 #
 
 ### Como me encontrar
