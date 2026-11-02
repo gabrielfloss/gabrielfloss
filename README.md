@@ -6,6 +6,9 @@
 
 <img width="800" height="200" alt="Gabriel Santos (1)" src="https://github.com/user-attachments/assets/cc9d25b7-197d-4b07-b166-342262a80ba8" />
 
+<img width="800" height="200" alt="Gabriel Santos (2)" src="https://github.com/user-attachments/assets/769e7d52-07a3-46c3-bafb-5787bccc6cdc" />
+
+
 <br><br>
 
 <p>
