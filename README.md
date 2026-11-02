@@ -4,10 +4,10 @@
 
 <br>
 
-### <b>gabriel santos</b>
-<i>software engineer & front-end developer</i>
+<img src="<img width="800" height="200" alt="Gabriel Santos" src="https://github.com/user-attachments/assets/2a33675e-a826-4f8d-866b-e5faae5f121d" />
+" width="320px" alt="Gabriel Santos" />
 
-<br>
+<br><br>
 
 <p>
   building digital experiences with code, focus on react, typescript & clean architecture.
@@ -15,6 +15,6 @@
 
 <br>
 
-<img src="https://i.scdn.co/image/ab67616d00001e0231d9a5995eea1d51f389d34e" width="350px" alt="Pain Passion" />
+<img src="image_9f4164.png" width="350px" alt="Pain Passion" />
 
 </div>
