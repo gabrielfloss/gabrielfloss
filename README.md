@@ -4,9 +4,7 @@
 
 <br>
 
-<h1>gabriel santos </h1>
-
-<br><br>
+<p>gabriel santos </p>
 
 <p>
   building digital experiences with code, focus on react, typescript & clean architecture.
