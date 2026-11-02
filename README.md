@@ -4,9 +4,7 @@
 
 <br>
 
-
-<img width="800" height="200" alt="Gabriel Santos (2)" src="https://github.com/user-attachments/assets/769e7d52-07a3-46c3-bafb-5787bccc6cdc" />
-
+<h1>gabriel santos </h1>
 
 <br><br>
 
