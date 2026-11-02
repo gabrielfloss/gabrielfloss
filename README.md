@@ -1,26 +1,20 @@
+<div align="center">
 
-### Olá! sou Gabriel
-Bem-vindo ao meu perfil no<strong> GitHub </strong> ! Eu sou um desenvolvedor FrontEnd, atualmente cursando o ensino médio e programação, criei interesse  pela área com a curiosidade de entender o ramo da tecnologia.
+# </3
 
-### FrontEnd.
-+ JavaScript
-+ TypeScript
-+ React
-+ HTML
-+ CSS
-+ Trabalho em projetos pessoais, porém atendo á freelance.
-  
-[![Linkedin](https://img.shields.io/badge/linkedin-292D3E?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dev-gabriel-ribeiro/)](https://www.linkedin.com/in/dev-gabriel-ribeiro/)
-[![Gmail Badge](https://img.shields.io/badge/-email-292D3E?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gabriel.ribeirosantos.contato@gmail.com)](mailto:gabriel.ribeirosantos.contato@gmail.com)
-[![Instagram Badge](https://img.shields.io/badge/-instagram-292D3E?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/gabrielflxs)](https://www.instagram.com/gabrielflxs)
-[![GitHub Badge](https://img.shields.io/badge/-GitHub-292D3E?style=flat-square&logo=GitHub&logoColor=white&link=https://www.github.com/gabrielfloss)](https://www.github.com/gabrielfloss)
-#
-<div align=center>
-  
-#
+<br>
 
-### Como me encontrar
+### <b>gabriel santos</b>
+<i>software engineer & front-end developer</i>
 
-- Email:    [gabriel.ribeirosantos.contato@gmail.com](mailto:gabriel.ribeirosantos.contato@gmail.com)
-- LinkedIn:    [meu LinkedIn](https://www.linkedin.com/in/dev-gabriel-ribeiro/)
-- instagram:    [meu Instagram](https://www.instagram.com/gabrielflxs)
+<br>
+
+<p>
+  building digital experiences with code, focus on react, typescript & clean architecture.
+</p>
+
+<br>
+
+<img src="https://media.giphy.com/media/xT9IgusjScqMcZEkUU/giphy.gif" width="450px" alt="aesthetic b&w gif" />
+
+</div>
