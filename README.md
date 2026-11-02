@@ -15,6 +15,6 @@
 
 <br>
 
-<img src="https://media.giphy.com/media/xT9IgusjScqMcZEkUU/giphy.gif" width="450px" alt="aesthetic b&w gif" />
+<img src="image_9f4164.png" width="350px" alt="Pain Passion" />
 
 </div>
