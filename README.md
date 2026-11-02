@@ -15,6 +15,6 @@
 
 <br>
 
-<img src="image_9f4164.png" width="350px" alt="Pain Passion" />
+<img src="https://i.scdn.co/image/ab67616d00001e0231d9a5995eea1d51f389d34e" width="350px" alt="Pain Passion" />
 
 </div>
