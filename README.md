@@ -4,7 +4,7 @@
 
 <br>
 
-<img src="<img width="800" height="200" alt="Gabriel Santos" src="https://github.com/user-attachments/assets/2a33675e-a826-4f8d-866b-e5faae5f121d" width="320px" alt="Gabriel Santos" />
+<img width="800" height="200" alt="Gabriel Santos" src="https://github.com/user-attachments/assets/2a33675e-a826-4f8d-866b-e5faae5f121d" width="320px" alt="Gabriel Santos" />
 
 <br><br>
 
