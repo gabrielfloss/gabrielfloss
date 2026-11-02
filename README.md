@@ -14,6 +14,7 @@
 
 <br>
 
-<img src="https://open.spotify.com/track/1sCuY33PCjNVoIkZeGVy8v" width="350px" alt="Pain Passion" />
+<img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/7407cb20-f231-42c4-94d3-ea820ad51b14" />
+
 
 </div>
